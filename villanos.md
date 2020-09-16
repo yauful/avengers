@@ -2,3 +2,4 @@
 
 * Dr Doom
 * Red Devil
+* Capitán America
